@@ -4,6 +4,7 @@ Thank you for scanning QR code!
 
 ## Useful links
 
+- [Discord Server](https://discord.gg/DSjHkTzMzd)
 - [Connection plan](https://blog.seidel-philipp.de/kiss-ultra-flight-controller-anschlussplan-wiringplan/) by Philipp Siedel
 - [Kiss Ultra WEB GUI](https://kiss-ultra.com/gui/) with latest Chrome and Edge browsers
 - [Kiss Ultra Standalone GUI](https://github.com/KissUltra/gui/releases) for OSX, Windows, Linux and ChromeOS
